@@ -137,16 +137,17 @@ This project demonstrates:
 
 ---
 
-## 🔗 Repository Link
+## 👨‍🎓 Student Information
 
-(Add your GitHub repo link here)
+* **Name:** Hamza Afzaal
+* **Roll Number:** 24F-0698
+* **Section:** B
 
 ---
 
-## 👨‍💻 Author
+## 🔗 Repository Link
 
-**Muhammad Abdullah**
-BS Artificial Intelligence
+(Add your GitHub repo link here)
 
 ---
 
